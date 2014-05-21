@@ -16,3 +16,7 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+
+# Sublime Text files
+form-focus.sublime-project
+form-focus.sublime-workspace
